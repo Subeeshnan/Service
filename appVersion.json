@@ -1,5 +1,9 @@
 {
+
+"TelegramManager" : {
 "appName" : "TelegramManager",
 "version" : "1.0",
 "forceUpdate" : false
+}
+
 }
