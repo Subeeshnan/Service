@@ -3,7 +3,7 @@
 "TelegramManager" : {
 "appName" : "TelegramManager",
 "version" : "2.0.1",
-"forceUpdate" : false
+"forceUpdate" : true
 }
 
 }
