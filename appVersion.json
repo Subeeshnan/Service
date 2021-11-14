@@ -1,9 +1,14 @@
 {
-
-"TelegramManager" : {
-"appName" : "TelegramManager",
-"version" : "2.0.2",
-"forceUpdate" : true
-}
-
+   "TelegramManager":{
+      "appName":"TelegramManager",
+      "version":"2.0.2",
+      "message":"",
+      "forceUpdate":true
+   },
+   "StatusSaver":{
+      "appName":"Status Saver",
+      "version":"1.0.0",
+      "message":"UI enhancement",
+      "forceUpdate":false
+   }
 }
