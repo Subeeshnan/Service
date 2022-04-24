@@ -1,0 +1,65 @@
+{
+"categoryLocations": [
+{
+"id": 1,
+"name": "Groceries",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 2,
+"name": "Chocolates",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 3,
+"name": "Vegetables",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 4,
+"name": "Fruits",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 5,
+"name": "Cosmetics",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 6,
+"name": "Stationery",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 7,
+"name": "Electronic Gadgets",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 8,
+"name": "Accessories",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+}
+],
+"count": 8,
+"total_records": 8,
+"current_page": 1,
+"per_page": 50,
+"total_pages": 1
+}
