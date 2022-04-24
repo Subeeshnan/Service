@@ -1,0 +1,273 @@
+{
+"itemLocations": [
+{
+"id": 1,
+"name": "Apple",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (4)-wVJgf.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 2,
+"name": "Water melon",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 3,
+"name": "Reynolds pen",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (2)-CyGXq.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 4,
+"name": "Apsara pencil",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download-4gyvq.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 5,
+"name": "DOMS sharpener",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/images-aeZu1.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 6,
+"name": "Rorito marker",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (1)-o9giN.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 7,
+"name": "Whiteboard Duster",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/white-board-duster-250x250-XFxr3.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 8,
+"name": "Maybelline Eyeliner",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (3)-oxCG2.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 9,
+"name": "Nykka compact",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/41B-IgO4X2L._SY355_-2z5Iq.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 10,
+"name": "Nykka bold kajal",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (5)-9ASJa.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 11,
+"name": "Grapes",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (8)-MMiHF.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 12,
+"name": "Pomogranate",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (7)-XsLeE.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 13,
+"name": "Onion",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (9)-i46Zw.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 14,
+"name": "Tomato",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (11)-W9P8e.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 15,
+"name": "Brinjal",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (12)-XFgNy.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 16,
+"name": "Carrot",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (13)-M2L6b.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 17,
+"name": "khadi Lipbalm",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (6)-KAc8S.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 18,
+"name": "Oneplus Nord mobile phone",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (14)-DoeWf.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 19,
+"name": "In-ear headphones",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/images (1)-NeFZV.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 20,
+"name": "Dell laptop Latitute 5410",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (15)-VEnfH.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 21,
+"name": "HP mouse",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (16)-6iob6.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 22,
+"name": "Microsoft Keyboard",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (17)-fwygO.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 23,
+"name": "Paper cups",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/images (2)-L5mQf.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+},
+{
+"id": 24,
+"name": "Water bottle",
+"rack": "",
+"shelf": "",
+"box": "",
+"imageUrl": "https://710693.tunnel.true-saas.com:443/WebReporter/udata/Files/download (19)-PUwqp.jpg",
+"latitude": "",
+"longitude": "",
+"floorNo": "1"
+}
+],
+"count": 24,
+"total_records": 24,
+"current_page": 1,
+"per_page": 50,
+"total_pages": 1
+}
